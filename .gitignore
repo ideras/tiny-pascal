@@ -1,0 +1,8 @@
+# Netbeans project folder
+nbproject/
+
+# Compiler generated object files
+*.o
+
+# Bison generated header file
+tokens.h

@@ -1,0 +1,21 @@
+Modificar el presente proyecto para generar codigo:
+
+1. Expresiones relacionales
+
+2. Operador mod, para calcular el modulo de 2 valores
+	
+3. "writeln" debe soportar una lista de expresiones separadas por coma. Ejemplo:
+	writeln x, y, z;
+	
+	Nota: La sentencia writeln siempre agrega un fin de linea al final.
+	
+4. "writeln" soportará literales de cadena. Ejemplo:
+	writeln 'Valor de x =', x
+
+	Los literales de string deberán registrarse en la sección .data una sola vez.
+5. Sentencia "if-then-else"
+	
+6. Las variables utilizadas deberán registrarse en la sección .data, para ello
+   deberá utilizar la variable global "var_set".  La generación de código para
+   esta accion debera llevarse a cabo en el main.
+	
